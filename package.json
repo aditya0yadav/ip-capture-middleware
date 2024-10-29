@@ -1,6 +1,6 @@
 {
   "name": "ip-capture-middleware",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "A middleware for capturing user IP addresses in Express.js applications.",
   "main": "server.js",
   "scripts": {
