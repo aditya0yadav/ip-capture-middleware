@@ -1,0 +1,36 @@
+{
+  "name": "ip-capture-middleware",
+  "version": "1.0.0",
+  "description": "A middleware for capturing user IP addresses in Express.js applications.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "ip",
+    "capture",
+    "middleware",
+    "express",
+    "nodejs",
+    "ip-logger"
+  ],
+  "author": "Adita Yadav",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aditya0yadav/ip-capture-middleware.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aditya0yadav/ip-capture-middleware/issues"
+  },
+  "homepage": "https://github.com/ip-capture-middleware/ip-capture-middleware#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.22"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
