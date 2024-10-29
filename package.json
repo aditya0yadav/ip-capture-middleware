@@ -1,6 +1,6 @@
 {
   "name": "ip-capture-middleware",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A middleware for capturing user IP addresses in Express.js applications.",
   "main": "server.js",
   "scripts": {
@@ -28,6 +28,7 @@
   "homepage": "https://github.com/ip-capture-middleware/ip-capture-middleware#readme",
   "dependencies": {
     "express": "^4.17.3",
+    "geoip-lite": "^1.4.10",
     "nodemon": "^2.0.22"
   },
   "devDependencies": {
