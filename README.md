@@ -18,7 +18,7 @@ To use this middleware in your Express.js application, you need to have Node.js 
 
 ```bash
 npm install express
-
+```
 
 ## Usage
 
